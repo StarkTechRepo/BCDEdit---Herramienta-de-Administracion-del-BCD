@@ -76,3 +76,10 @@ BCDEdit es una herramienta de línea de comandos utilizada para gestionar el BCD
 - `bcdedit /debug {on | off}`: Activa o desactiva la depuración de arranque.
 
 - `bcdedit /writestore {archivo}`: Escribe el BCD en un archivo.
+
+
+## Licencia
+Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
+
+### Nota importante
+Se recomienda encarecidamente hacer una copia de seguridad de los datos importantes antes de continuar. El autor no se hace responsable de ningún daño o problema causado por el mal uso de estas tecnicas.
