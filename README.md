@@ -3,12 +3,12 @@
 BCDEdit es una herramienta de línea de comandos utilizada para gestionar el BCD (Boot Configuration Data), que es un almacén de datos que contiene información sobre cómo arrancar Windows. Puedes utilizar BCDEdit para ajustar diversas configuraciones que pueden mejorar el rendimiento, reducir el tiempo de arranque y aumentar la estabilidad de tu sistema.
 
 # Índice
-1. [Descripción](#bcdedit---herramienta-de-administración-del-bcd)
+1. [BCDEdit](#bcdedit---herramienta-de-administración-del-bcd)
 2. [Para mejorar el rendimiento](#para-mejorar-el-rendimiento)
 3. [Para reducir el tiempo de arranque](#para-reducir-el-tiempo-de-arranque)
 4. [Para aumentar la estabilidad](#para-aumentar-la-estabilidad)
 5. [Otras opciones](#otras-opciones)
-6. 
+
 ## Para mejorar el rendimiento
 
 - `bcdedit /set useplatformtick yes`: Habilita el uso del reloj de la plataforma, que es más preciso que el reloj del BIOS, lo que puede mejorar el rendimiento del sistema en algunos casos.
